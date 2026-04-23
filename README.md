@@ -1,6 +1,6 @@
 # PETRG-3D: PET/CT Report Generation with a 3D Vision-Language Model
 
-> Official implementation of *"PETRG-3D: PET/CT Report Generation with a 3D Vision-Language Model"* (CVPR 2026 Findings).
+> Official implementation of *"[Vision-Language Models for Automated 3D PET/CT Report Generation](https://arxiv.org/pdf/2511.20145)"* (CVPR 2026 Findings).
 
 PETRG-3D is a multimodal LLM that consumes paired 3D CT and PET volumes and generates a structured Chinese radiology report. The architecture couples a shared 3D ViT visual encoder (initialized from RadFM's ViT-3D), two `PerceiverResampler + FC` projection heads (one per modality) and an LLM decoder with a LoRA adapter. We support six interchangeable Chinese-chat LLM backbones out of the box.
 
