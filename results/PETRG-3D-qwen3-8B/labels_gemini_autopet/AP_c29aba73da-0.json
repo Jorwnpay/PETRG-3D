@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "1",
+    "suv": "SUVmax: 8.0",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "SUVmax: 25.6",
+    "ct_status": "2",
+    "ct_description": "鼻咽部左后壁软组织肿块，大小约4.0*2.1cm，邻近结构受侵"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 4.2",
+    "ct_status": "2",
+    "ct_description": "右叶0.9cm低密度影，左叶钙化灶"
+  },
+  "颈部淋巴结": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "双侧颈部I-IV区及左侧颈部多发淋巴结影"
+  },
+  "肺与胸膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "3",
+    "ct_description": "双肺上叶多发微结节，少许斑片影，右侧胸腔积液"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "纵隔4R、5区、7区、10区多发淋巴结"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "双侧腋窝、右侧锁骨区、双侧内乳区多发淋巴结，大者2.4*1.3cm"
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "肝右叶后下段点状钙化灶"
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "脾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "体积稍增大，其内数个小类圆形低密度影"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "双肾实质内各见一钙化灶"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "2",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "左侧髂血管旁、双侧腹股沟区多发小淋巴结"
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  }
+}

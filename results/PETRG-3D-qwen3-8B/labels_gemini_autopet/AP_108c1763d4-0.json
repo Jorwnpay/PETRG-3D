@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "白质内散在条索状低密度影，左侧侧脑室及余脑室扩大"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "1",
+    "suv": "SUVmax: 13.5",
+    "ct_status": "4",
+    "ct_description": "侵及上鼻甲及上鼻道，鼻腔左侧软组织增厚"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "SUVmax: 34.9",
+    "ct_status": "2",
+    "ct_description": "鼻咽部新生物，口咽部软组织增厚"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "甲状腺左叶类圆形低密度影"
+  },
+  "颈部淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肺与胸膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "左肺气胸，右肺多发微结节，左肺多个空洞，双侧胸腔积液"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "肝前上部见条片状稍低密度影"
+  },
+  "胆囊与胆道": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "胆囊内见结节状高密度影"
+  },
+  "脾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 7.1",
+    "ct_status": "1",
+    "ct_description": "腹主动脉旁多发小淋巴结"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "1",
+    "suv": "SUVmax: 7.1",
+    "ct_status": "1",
+    "ct_description": "肠系膜根部、肠系膜上门静脉组多发小淋巴结"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "SUVmax: 11.5",
+    "ct_status": "1",
+    "ct_description": "髂血管旁、腹股沟区多发小淋巴结，髂血管区及腹股沟区软组织增厚"
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "髂血管走行区邻近骨质边缘欠规整"
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "2",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "右侧腹股沟区皮下脂肪间隙放射性分布不均匀"
+  }
+}

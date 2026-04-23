@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "嗅神经走行区板状软组织密度影，鼻腔左侧内侧壁软组织增厚，额窦高密度影，眼眶内侧壁条状高密度影"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "邻近鼻咽部受压推移"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "甲状腺右叶后下见一大小约11*15mm类圆形低密度影"
+  },
+  "颈部淋巴结": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "右颈2b、3、4区、双侧颌下、颈动脉鞘周围、锁骨上见多发大小不等淋巴结"
+  },
+  "肺与胸膜": {
+    "pet_status": "1",
+    "suv": "SUVmax: 6.0",
+    "ct_status": "2",
+    "ct_description": "左肺尖稍高密度影，右肺上叶后段磨玻璃密度微结节伴钙化"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "纵隔（4R、5、7）、肝门部见多发大小不等淋巴结"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腋窝与胸壁": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "腋窝见多发大小不等淋巴结"
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "肝左叶下方类圆形低密度影，大小约20*24mm"
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "脾脏": {
+    "pet_status": "1",
+    "suv": "SUVmax: 7.6",
+    "ct_status": "2",
+    "ct_description": "脾门部见大小约10*18mm类圆形病灶"
+  },
+  "胰腺": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "胰腺钩突前方囊性病灶，液化坏死"
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "双肾实质内各可见两个小结节状低密度影"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "胃小弯侧见多发淋巴结"
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "肠系膜根部、腹主动脉旁见多发淋巴结"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 8.0",
+    "ct_status": "2",
+    "ct_description": "右侧附件区类圆形低密度影，邻近子宫外侧壁类圆形稍低密度影"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "髂血管旁及腹股沟见多发大小不等淋巴结"
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "颈椎、腰椎、骶椎骨质增生，腰椎L1-3椎体轻度楔形变"
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "1",
+    "suv": "SUVmax: 3.8",
+    "ct_status": "6",
+    "ct_description": "右侧肱骨头低密度影含气泡，股骨头小结节状高密度影，胫骨平台骨折术后金属固定及骨质改变"
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "1",
+    "suv": "SUVmax: 7.0",
+    "ct_status": "7",
+    "ct_description": "双侧肩部、胸背部皮下脂肪层多发放射性浓聚，胸腰椎旁、腰大肌深面等索条状影"
+  }
+}

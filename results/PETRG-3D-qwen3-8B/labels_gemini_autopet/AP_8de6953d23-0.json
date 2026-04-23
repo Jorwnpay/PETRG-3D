@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "大脑实质内见多发类圆形低密度影，邻近脑白质呈带状低密度影"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "鼻咽顶壁软腭处可见小片状软组织密度影"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "甲状腺右叶上极见一直径约9mm类圆形低密度影"
+  },
+  "颈部淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肺与胸膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "3",
+    "ct_description": "多发斑片状、结节状磨玻璃密度影或实性小结节影"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "肝右前叶前段、后下段及左外叶见类圆形低密度影"
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "囊腔内见片状致密影"
+  },
+  "脾脏": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "脾脏内见多发类圆形低密度影及一不规则低密度影"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "双肾弥漫性钙质沉着"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "腹主动脉旁、髂血管旁可见多发淋巴结影，部分融合成团"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "肠系膜上、门静脉周等多处脂肪间隙消失，见多发软组织密度影"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "前列腺内见条状低密度影"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "盆腔内及双侧腹股沟区见多发小淋巴结影"
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  }
+}

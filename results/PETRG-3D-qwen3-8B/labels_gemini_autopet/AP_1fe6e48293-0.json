@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "1",
+    "suv": "SUVmax: 11.8",
+    "ct_status": "2",
+    "ct_description": "大脑实质内见多发结节状、团块状异常密度影，以左侧顶叶为著；其邻近脑白质见条片状低密度影"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "鼻腔左侧后外侧软组织影，直径约1.2cm"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "SUVmax: 9.3",
+    "ct_status": "4",
+    "ct_description": "鼻咽部左侧壁软组织增厚"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "甲状腺右叶下极见一直径约0.6cm低密度小结节影"
+  },
+  "颈部淋巴结": {
+    "pet_status": "1",
+    "suv": "SUVmax: 6.5",
+    "ct_status": "1",
+    "ct_description": "颈部见多发长条形、结节状/团块状融合的淋巴结影"
+  },
+  "肺与胸膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "3",
+    "ct_description": "右肺上叶尖段外侧胸膜下见一结节状软组织影；左肺下叶背段见一磨玻璃影；双肺见多发小结节影"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 6.5",
+    "ct_status": "1",
+    "ct_description": "纵隔、肺门见多发长条形、结节状/团块状融合的淋巴结影"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "1",
+    "suv": "SUVmax: 6.5",
+    "ct_status": "1",
+    "ct_description": "双侧腋窝见多发长条形、结节状/团块状融合的淋巴结影；双侧胸壁软组织不均匀增厚，呈多发“椒盐样”条片影"
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "脾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "脾脏体积略增大，内见多发点状致密影"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 6.5",
+    "ct_status": "1",
+    "ct_description": "腹膜后、椎旁间隙、骶前见多发长条形、结节状/团块状融合的淋巴结影"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "2",
+    "suv": "SUVmax: 1.3",
+    "ct_status": "2",
+    "ct_description": "前列腺体积增大，内见多发等密度小结节影"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "SUVmax: 6.5",
+    "ct_status": "1",
+    "ct_description": "髂血管旁、腹股沟区、左侧腹股沟见多发长条形、结节状/团块状融合的淋巴结影"
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "脊柱多发椎体压缩变短，全身多发骨质疏松"
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "全身多发骨质疏松"
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "1",
+    "suv": "SUVmax: 6.5",
+    "ct_status": "1",
+    "ct_description": "双侧肩部皮下间隙、右侧肱骨中上段皮下间隙见多发淋巴结影"
+  }
+}

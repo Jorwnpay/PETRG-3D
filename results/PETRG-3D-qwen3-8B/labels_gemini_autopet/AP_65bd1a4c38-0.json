@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "左侧枕骨、顶骨、颞骨等多处颅骨结节及肿块影"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "左侧眼球壁钙化，上颌窦、蝶窦、筛窦、鼻中隔多发结节及肿块影"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "双侧扁桃体、梨状隐窝、咽旁间隙、舌根部多发结节及肿块影"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "双侧下颌下腺、腮腺、舌下腺多发结节及肿块影"
+  },
+  "颈部淋巴结": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "双侧颈部多发小淋巴结"
+  },
+  "肺与胸膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "双肺多发结节伴钙化，双侧膈肌局部隆起，右侧胸腔积液，右侧胸膜增厚"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 5.6",
+    "ct_status": "2",
+    "ct_description": "气管旁、右肺门、胸导管周围结节及肿块影，气管周围软组织增厚"
+  },
+  "心脏与心包": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔受累及轻度液化"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "双侧腋窝、内乳淋巴结链多发结节及肿块影"
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "胆囊点状钙化"
+  },
+  "脾脏": {
+    "pet_status": "2",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "体积增大，内见数个钙化灶"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "双肾实质略高密度结节"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "胃窦部结节及肿块影，结肠见放射性生理性摄取"
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "胰头旁、腹主动脉旁多发结节及肿块影"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "肠系膜根部多发结节及肿块影"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "前列腺弥漫性钙化灶，膀胱放射性生理性蓄积"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "双侧髂血管旁、闭孔血管旁多发结节及肿块影"
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "椎体后缘骨赘形成"
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "翼内肌、舌肌、腹壁皮下脂肪及下肢深部软组织多发结节及肿块影"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "颈部淋巴结": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "双侧锁骨下区多发结节状、肿块状软组织影"
+  },
+  "肺与胸膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "3",
+    "ct_description": "双肺多发斑片状、结节状磨玻璃密度影、条带影，部分呈空洞、囊变；左肺上叶钙化灶"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "右肺门、隆突下、纵隔4R、7区、气管旁多发结节状、肿块状软组织影"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "胸骨后、双侧内乳区多发结节状、肿块状软组织影"
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "肝实质内多个结节状、团块状低密度影"
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "脾脏": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "脾脏内多发低密度影"
+  },
+  "胰腺": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "胰腺头部可见类圆形低密度影，囊变"
+  },
+  "肾脏": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "双肾内侧缘软组织密度结节影；右肾内侧缘类圆形低密度影；双肾盂及肾盏点状致密影；双侧输尿管下段管壁轻度增厚"
+  },
+  "肾上腺": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "双侧肾下腺（肾上腺）肿大，放射性增高"
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "肝胃间隙、肝门区、腹股沟区、门静脉主干及其分支走行区多发淋巴结、肿块影"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "肠系膜根部、小肠肠系膜区多发结节状、肿块状软组织影"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "双侧髂血管旁、骶前、腹股沟区多发淋巴结及软组织影"
+  },
+  "脊柱": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "椎体旁多发结节状、肿块状软组织影"
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "左、右侧腹壁及盆底肌周围多发结节或肿块样增高灶"
+  }
+}

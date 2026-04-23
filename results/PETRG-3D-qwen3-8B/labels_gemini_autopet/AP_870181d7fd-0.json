@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "右侧大脑半球脑室扩大、高，侧脑室前角及身体积增大"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "SUVmax: 26.35",
+    "ct_status": "4",
+    "ct_description": "鼻咽部顶后壁软组织增厚，左侧扁桃体术后缺如"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "颈部淋巴结": {
+    "pet_status": "1",
+    "suv": "SUVmax: 20.72",
+    "ct_status": "1",
+    "ct_description": "双侧颈部多发结节状、条片状新生物影"
+  },
+  "肺与胸膜": {
+    "pet_status": "2",
+    "suv": "SUVmax: 3.44",
+    "ct_status": "2",
+    "ct_description": "双肺多个磨玻璃、实性微小结节，右肺下叶钙化灶，肋膈窦、心膈角高密度影"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 20.72",
+    "ct_status": "1",
+    "ct_description": "胸骨旁、心膈角多发结节状新生物影"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "1",
+    "suv": "SUVmax: 20.72",
+    "ct_status": "1",
+    "ct_description": "腋窝多发结节状新生物影"
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "3",
+    "suv": "SUVmax: 3.22",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "囊腔内见异常密度影"
+  },
+  "脾脏": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "体积增大，内可见多发大小不等类圆形低密度影"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 24.08",
+    "ct_status": "1",
+    "ct_description": "膈脚旁、腹腔动脉旁、腹主动脉旁、腹膜后下腔静脉旁结节状新生物"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "1",
+    "suv": "SUVmax: 20.72",
+    "ct_status": "1",
+    "ct_description": "肠系膜根部多发结节状、条片状新生物影"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 4.34",
+    "ct_status": "7",
+    "ct_description": "前列腺体积增大，内可见多发斑点状高密度影"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "SUVmax: 20.72",
+    "ct_status": "1",
+    "ct_description": "髂血管旁、盆腔内、腹股沟等多发结节状新生物影"
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "胸5-7、胸11、腰4-5椎体压缩性骨裂，椎体边缘骨质增生"
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "骶3椎体、尾5椎体可见压缩性骨裂"
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "1",
+    "suv": "SUVmax: 20.72",
+    "ct_status": "7",
+    "ct_description": "腰大肌、臀肌、梨状肌、大腿及小腿深部肌群多发结节状、条片状新生物"
+  }
+}

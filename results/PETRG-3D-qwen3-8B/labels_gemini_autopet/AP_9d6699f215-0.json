@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "左侧额叶皮层下点状钙化灶，大脑枕叶左侧楔形缺如"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "4",
+    "ct_description": "右侧上颌窦粘膜增厚"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "鼻咽顶后壁及左侧鼻咽壁部分结构缺如"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "双侧腮腺内见小结节状高密度影"
+  },
+  "颈部淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "双侧颈部及左侧颌下可见数个小淋巴结影"
+  },
+  "肺与胸膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "肺内多发结节、钙化、条索、囊状透亮影及双侧胸腔积液"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "右侧锁骨区、右上纵隔及纵隔多发淋巴结影"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "右侧腋窝淋巴结，左侧胸壁囊性结节"
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "肝内多发结节状及点状钙化影"
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "脾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "脾血管变异"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "胰体与胰尾衔接处见点状钙化影"
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "左肾小囊状低密度影，右肾盂多个小结节状致密影，双侧肾间质钙化"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "肝门区、胰头周、腹腔干周、腹主动脉旁、腹膜后脂肪间隙多发淋巴结及钙化"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "肠系膜根部及周围多发淋巴结，双侧肾周筋膜片状低密度影"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "子宫颈结节状钙化，盆腔少量积液，左侧精索静脉内侧小结节"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "双侧髂血管旁多发淋巴结"
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  }
+}

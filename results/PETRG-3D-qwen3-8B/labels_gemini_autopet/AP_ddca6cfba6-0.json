@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "脑实质多发点状、小片状、结节状低密度影，邻近脑池放射性摄取增高"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "2",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "眼眶内类圆形小密度影，上颌窦粘膜增厚及软组织密度影"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "颈部淋巴结": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "锁骨上多发小-稍大淋巴结"
+  },
+  "肺与胸膜": {
+    "pet_status": "2",
+    "suv": "",
+    "ct_status": "3",
+    "ct_description": "双肺磨玻璃影，小叶间隔增厚，胸腔积液"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "纵隔多发肿大淋巴结，部分融合成团"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腋窝与胸壁": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "肝右叶类圆形水样密度影，左叶点状致密影"
+  },
+  "胆囊与胆道": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "胆囊底部及胆囊管周围点状致密影"
+  },
+  "脾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "脾脏体积增大"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "腹主动脉旁多发小-稍大淋巴结"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "双侧睾丸致密影，精索术区软组织密度影及磨玻璃影"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "髂总、髂外动脉旁及腹股沟多发肿大淋巴结，部分融合及钙化"
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "双侧股骨中上段、双侧髋臼周围多发斑片状、结节状致密影"
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "臀部及下肢肌肉间隙致密影，皮肤、皮下脂肪间隙增厚，皮下结节"
+  }
+}

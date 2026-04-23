@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "鼻腔、副鼻窦内见黏膜样密度影"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "4",
+    "ct_description": "鼻咽部软组织不均匀增厚，软组织密度增高"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "颈部淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "可见多发淋巴结影"
+  },
+  "肺与胸膜": {
+    "pet_status": "1",
+    "suv": "SUVmax: 7.96",
+    "ct_status": "3",
+    "ct_description": "双肺下叶小结节影，左肺下叶磨玻璃密度影，双侧胸腔少量积液"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "纵隔、肺门可见多发淋巴结影，大者约1.5cm*1.3cm"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "1",
+    "suv": "SUVmax: 20.82",
+    "ct_status": "2",
+    "ct_description": "右侧胸壁第7肋间软组织肿块，直径约4.8cm；腋窝可见多发淋巴结影"
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "肝左叶内见数个点状钙化灶"
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "脾脏": {
+    "pet_status": "1",
+    "suv": "SUVmax: 10.82",
+    "ct_status": "7",
+    "ct_description": "脾脏体积增大，边缘不规则，局部似呈串珠状"
+  },
+  "胰腺": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "胰腺体尾部见1.4cm类圆形低密度影；胰头部见多个点状致密影"
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "双肾部分实质内见数个小囊状低密度影，大者约1.1cm"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "3",
+    "suv": "SUVmax: 12.24",
+    "ct_status": "4",
+    "ct_description": "乙状结肠局限性增厚，呈条带状"
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "可见多发淋巴结影"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "前列腺内见数个小囊状低密度影"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "髂血管旁及腹股沟可见多发淋巴结影"
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  }
+}

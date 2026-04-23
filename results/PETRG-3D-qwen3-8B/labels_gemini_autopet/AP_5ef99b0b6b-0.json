@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "4",
+    "ct_description": "右侧额窦、右侧筛窦、双侧上颌窦及左侧翼突内侧板增厚，内见混杂密度影"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "SUVmax: 4.25",
+    "ct_status": "2",
+    "ct_description": "鼻咽顶壁局部结构略饱满"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "颈部淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肺与胸膜": {
+    "pet_status": "1",
+    "suv": "SUVmax: 10.53",
+    "ct_status": "2",
+    "ct_description": "双肺实质内见多发大小不等的结节及微小结节影"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 18.62",
+    "ct_status": "1",
+    "ct_description": "纵隔见多发肿大淋巴结影，部分呈融合趋势"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "肝右叶下段见一类圆形低密度影，其内见点状钙化影"
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "胆囊腔内底面见结节状钙化影"
+  },
+  "脾脏": {
+    "pet_status": "1",
+    "suv": "SUVmax: 17.28",
+    "ct_status": "2",
+    "ct_description": "脾脏体积增大，实质内见斑片状放射性缺损区，并见多个软组织密度结节影"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "双肾积水扩张，双侧肾盂内见多发泥沙样致密影，右肾见一类圆形囊状水样密度影"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "左侧肾上腺切除术后，术野内可见高密度器械影"
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 26.32",
+    "ct_status": "1",
+    "ct_description": "腹主动脉周围、下腔静脉周围、双侧膈脚后、肝门区见多发结节状/肿块状软组织密度影"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "双侧附件切除术后，术野内可见高密度缝合线影"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "SUVmax: 26.32",
+    "ct_status": "1",
+    "ct_description": "双侧髂血管旁、骶前、双侧梨状肌周围见多发软组织密度影，右侧腹股沟区见长条形软组织密度影"
+  },
+  "脊柱": {
+    "pet_status": "1",
+    "suv": "SUVmax: 19.36",
+    "ct_status": "6",
+    "ct_description": "V1-V2混杂密度影，胸8椎体溶骨性骨质破坏，胸10椎体部分骨质吸收"
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "1",
+    "suv": "SUVmax: 26.71",
+    "ct_status": "2",
+    "ct_description": "双侧肱骨、股骨、胫骨及右侧腓骨髓腔内见多发软组织密度结节影"
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "右上肢肌肉间隙见多个小类圆形低密度影，腹壁皮下脂肪层内见数个小结节状致密影"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "左侧额叶陈旧出血，侧脑室周围白质密度欠均匀，相应脑池扩大"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "甲状腺左叶内小低密度影"
+  },
+  "颈部淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肺与胸膜": {
+    "pet_status": "1",
+    "suv": "SUVmax: 30.9",
+    "ct_status": "2",
+    "ct_description": "多发亚厘米管壁结节，磨玻璃密度影，多发斑片影伴钙化，双侧胸腔积液"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "肝周大片状低密度影"
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "脾脏": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "体积增大，内见多发大小不等的低密度灶"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾脏": {
+    "pet_status": "2",
+    "suv": "SUVmax: 3.2",
+    "ct_status": "2",
+    "ct_description": "双肾实质内多个小结节影，点状致密影"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "4",
+    "ct_description": "十二指肠及结肠肠壁明显增厚，结肠系膜水肿，结肠走行径增粗"
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "腹水"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 26.5",
+    "ct_status": "2",
+    "ct_description": "左侧附件软组织肿块，右侧附件结节，宫颈不规则软组织影，宫腔低密度灶"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "脊柱": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "胸10椎体病理性代谢增高"
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "右侧髂骨、右侧股骨上段、左侧坐骨、右侧耻骨及左侧股骨下段代谢增高"
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  }
+}

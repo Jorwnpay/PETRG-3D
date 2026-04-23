@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "脑实质少许小片状低密度影，脑沟、脑裂增宽加深，脑室明显扩大"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "上颌窦前壁受压移位"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "SUVmax: 19.8",
+    "ct_status": "2",
+    "ct_description": "鼻咽顶壁软组织肿块"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "颈部淋巴结": {
+    "pet_status": "1",
+    "suv": "SUVmax: 10.6",
+    "ct_status": "1",
+    "ct_description": "左侧颈动脉鞘、椎动脉走行区多发结节状软组织密度影"
+  },
+  "肺与胸膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "3",
+    "ct_description": "双肺多发斑片影及结节影，双肺纹理增多、增重"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "2",
+    "suv": "SUVmax: 4.3",
+    "ct_status": "1",
+    "ct_description": "纵隔内多个淋巴结"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "胆囊内结节状高密度影"
+  },
+  "脾脏": {
+    "pet_status": "1",
+    "suv": "SUVmax: 12.8",
+    "ct_status": "2",
+    "ct_description": "脾大，低密度结节，脾周水样密度影"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "胰腺体部尾部斑点状钙化灶"
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 7.4",
+    "ct_status": "4",
+    "ct_description": "胃壁弥漫性增厚"
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "十二指肠降段环周围水样密度影"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 12.3",
+    "ct_status": "7",
+    "ct_description": "精索静脉迂曲扩张，阴囊内积液，阴茎结节状增粗伴钙化"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "2",
+    "suv": "SUVmax: 2.7",
+    "ct_status": "1",
+    "ct_description": "双侧腹股沟区数个小淋巴结"
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "双侧腹壁腹肌间多发小结节影"
+  }
+}

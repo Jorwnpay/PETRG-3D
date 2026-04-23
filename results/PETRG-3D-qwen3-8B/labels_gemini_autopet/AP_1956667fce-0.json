@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "脑实质内多发斑片状低密度影，中线结构右偏"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "SUVmax: 7.8",
+    "ct_status": "4",
+    "ct_description": "鼻咽顶后壁及左侧咽隐隐窝肿胀"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "2",
+    "suv": "SUVmax: 1.2",
+    "ct_status": "2",
+    "ct_description": "甲状腺左叶背侧一结节状低密度影"
+  },
+  "颈部淋巴结": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "右侧锁骨上区可见淋巴结影"
+  },
+  "肺与胸膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "3",
+    "ct_description": "双肺多发微小结节、条索影及少量磨玻璃影，双侧胸腔积液"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "纵隔、大血管周围多发淋巴结，部分伴钙化"
+  },
+  "心脏与心包": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包膜下淋巴结摄取增高，心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "脾脏": {
+    "pet_status": "1",
+    "suv": "SUVmax: 3.4",
+    "ct_status": "7",
+    "ct_description": "脾脏体积增大，内见多发小结节状、点状钙化影"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "双肾内侧多发小囊状低密度影，左侧肾盂内见小结节状致密影"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "右侧后腹膜、右侧肾周筋膜、腹主动脉旁多发淋巴结影"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "右侧膈肌脚区淋巴结放射性摄取增高"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "睾丸及双侧附件区可见淋巴结影，摄取增高"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "SUVmax: 10.2",
+    "ct_status": "1",
+    "ct_description": "双侧髂血管旁、髂总血管旁及双侧腹股沟区多发淋巴结"
+  },
+  "脊柱": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "胸12-腰3椎体、右侧骶骨不均匀低密度影"
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "多处骨质（如双侧股骨、胫腓骨、肱骨、肋骨、肩胛骨等）不均匀低密度或高密度影"
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "多处肌群（如梨状肌、臀部、大腿肌群、腘窝）及深筋膜间淋巴结影"
+  }
+}

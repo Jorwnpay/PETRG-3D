@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "右前额部、顶叶皮层下、双侧基底节区、放射冠区及半卵圆中心见数个点状低密度影"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "右侧额窦、蝶窦内见软组织密度影填塞"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "甲状腺左叶上极见低密度小结节"
+  },
+  "颈部淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肺与胸膜": {
+    "pet_status": "1",
+    "suv": "SUVmax: 20.7",
+    "ct_status": "2",
+    "ct_description": "双肺多发微结节，部分钙化；胸膜见长管状或梭形软组织影"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 20.7",
+    "ct_status": "7",
+    "ct_description": "纵隔见多发大小不等长管状或梭形软组织影，其内见结节状致密影"
+  },
+  "心脏与心包": {
+    "pet_status": "1",
+    "suv": "SUVmax: 20.7",
+    "ct_status": "7",
+    "ct_description": "心包腔见多发大小不等长管状或梭形软组织影"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "胆囊内见结节状高密度影"
+  },
+  "脾脏": {
+    "pet_status": "1",
+    "suv": "SUVmax: 10.0",
+    "ct_status": "2",
+    "ct_description": "内见多发类圆形低密度影及类圆形小结节影"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "右肾实质囊腔伴致密影；左肾囊状低密度影；左肾盂结节"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 20.7",
+    "ct_status": "7",
+    "ct_description": "腹膜后多发长管状或梭形软组织影；肾周间隙及肾上腺旁软组织结节"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "1",
+    "suv": "SUVmax: 20.7",
+    "ct_status": "7",
+    "ct_description": "腹膜后、髂血管旁多发软组织影，部分与腹膜分界不清"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "子宫增大，宫腔斑片状致密影；盆腔积液；双侧精索静脉条片影"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "SUVmax: 22.5",
+    "ct_status": "1",
+    "ct_description": "双侧腹股沟淋巴结肿大；髂血管旁及髂总动脉旁软组织结节"
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "1",
+    "suv": "SUVmax: 11.6",
+    "ct_status": "7",
+    "ct_description": "腹壁见数个大小不等囊泡状影"
+  }
+}

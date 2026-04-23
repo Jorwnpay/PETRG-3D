@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "额叶皮层下见点状钙化灶"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "4",
+    "ct_description": "鼻咽顶后壁软组织增厚，累及双侧咽隐窝，右侧咽鼓管见分泌物"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "甲状腺增大，密度不均，内见中心低密度区"
+  },
+  "颈部淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肺与胸膜": {
+    "pet_status": "2",
+    "suv": "",
+    "ct_status": "3",
+    "ct_description": "两肺多发索条影，部分肺叶小叶间隔增厚，右肺下叶放射性减低"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "纵隔、气管旁、椎旁多发淋巴结放射性明显浓聚"
+  },
+  "心脏与心包": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "右心房血池放射性浓聚，腔内见多根静脉导管影"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "腋窝多发淋巴结放射性明显浓聚"
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "胆囊内见点状高密度影"
+  },
+  "脾脏": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "脾大，内见多发大小不等钙化灶，边缘环形摄取"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "胰腺体尾部类圆形低密度影及实质内点状钙化灶"
+  },
+  "肾脏": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "双肾多发低密度影、钙化灶，肾盂输尿管扩张，肾周筋膜增厚及积液"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "2",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "腹主动脉旁淋巴结放射性轻度浓聚"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "2",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "肠系膜区放射性较前增高，盆腔少量积液"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": "双侧附件区未见明确结构异常"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "2",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "双侧髂血管旁、闭孔淋巴结链放射性轻度浓聚"
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  }
+}

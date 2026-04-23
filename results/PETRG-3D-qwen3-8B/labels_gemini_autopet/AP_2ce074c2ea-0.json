@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "4",
+    "ct_description": "单侧鼻腔黏膜增厚"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "右侧扁桃体体积增大"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "双侧腮腺弥漫性增大"
+  },
+  "颈部淋巴结": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "双颈部、锁骨上区多发结节、团片状肿大"
+  },
+  "肺与胸膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "3",
+    "ct_description": "双肺多发小斑片影、结节影及无密度影缺损区，双侧胸腔积液"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "纵隔、内乳区多发结节、团片状肿大，部分见坏死"
+  },
+  "心脏与心包": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "4",
+    "ct_description": "心包局限性增厚，心包腔内见不规则水样密度影"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "腋窝多发大小不等结节、团片状肿大"
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "肝左叶后下段略低密度结节影；肝右后叶下段结节状钙化影"
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "胆囊管增粗，内见结节状充气影"
+  },
+  "脾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "脾脏体积增大"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾脏": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "双肾体积增大，右肾略低密度结节影，左侧肾盂、肾盏及输尿管轻度积水"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "4",
+    "ct_description": "胃壁局部稍厚"
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "腹腔动脉旁、腹主动脉旁多发结节、团片状肿大"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "肠系膜根部多发结节、团片状肿大"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "双侧附件及阴道旁肿大；双侧精囊软组织密度结节；双侧睾丸体积减小"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "髂血管旁、盆腔内侧壁、双侧腹股沟区多发结节肿大"
+  },
+  "脊柱": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "脊柱多椎体及椎间小关节骨质破坏，部分椎体变扁并可见软组织密度影"
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "骶椎可见骨质破坏"
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "4",
+    "ct_description": "腹壁局限性皮肤增厚"
+  }
+}

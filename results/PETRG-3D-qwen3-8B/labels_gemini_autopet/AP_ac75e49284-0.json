@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "颅咽管瘤切除术后，颅底颅缝增宽，颅骨质稍稀疏，颅骨骨髓腔放射性浓聚明显"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "4",
+    "ct_description": "右侧蝶窦内少许软组织密度影，右侧筛窦、右侧上颌窦及右侧额窦粘膜增厚，左侧上颌窦内点片状稍高密度影"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "颈部淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肺与胸膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "3",
+    "ct_description": "双肺散在条索影伴钙化，右肺上叶尖段小结节，左侧胸腔气泡影"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 5.2",
+    "ct_status": "1",
+    "ct_description": "纵隔及双肺门可见数个小淋巴结影，大小约0.4cm-0.6cm"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "胆囊缺如，胆囊区可见结节状钙化"
+  },
+  "脾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "脾增大明显，边缘不整，脾脏内多个小低密度影"
+  },
+  "胰腺": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "胰腺头部及体尾部多个类圆形低密度影"
+  },
+  "肾脏": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "双肾萎缩，右肾体积减小、实质变薄，肾盂肾盏输尿管扩张，肾盂内小结节状致密影，左肾皮质变薄包膜不完整"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "4",
+    "ct_description": "胃壁弥漫性不均匀性增厚，胃大弯侧可见局灶性放射性分布缺损"
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 14.7",
+    "ct_status": "1",
+    "ct_description": "腹膜后脂肪间隙多个小结节状影，腹主动脉旁多发肿大淋巴结"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "1",
+    "suv": "SUVmax: 14.7",
+    "ct_status": "1",
+    "ct_description": "肠系膜根部、肠系膜下、肠系膜间隙多发肿大淋巴结影"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "SUVmax: 14.7",
+    "ct_status": "1",
+    "ct_description": "盆腔内直肠旁、双侧髂血管旁、双侧闭孔区、双侧腹股沟区多发肿大淋巴结影，最大约3.4cm*5.5cm"
+  },
+  "脊柱": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "胸7、腰3、骶1椎体及双侧多椎体附件放射性浓聚明显"
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "双侧髋臼、股骨头、肱骨头、髂骨、耻骨、坐骨、双侧长管状骨放射性浓聚明显"
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "1",
+    "suv": "SUVmax: 8.0",
+    "ct_status": "4",
+    "ct_description": "双侧腹壁肌肉间隙增厚，伴皮下水肿"
+  }
+}

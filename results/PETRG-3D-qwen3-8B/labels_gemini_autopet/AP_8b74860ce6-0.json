@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "脑实质弥漫性低密度改变"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "1",
+    "suv": "SUVmax: 26.3",
+    "ct_status": "7",
+    "ct_description": "左侧额窦、蝶窦、筛窦及双侧上颌窦粘膜增厚，窦腔内可见絮状物影"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "SUVmax: 10.8",
+    "ct_status": "2",
+    "ct_description": "鼻咽顶后壁软组织增生，顶壁增厚侵犯前颅底；双侧扁桃体术后缺如"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 14.8",
+    "ct_status": "7",
+    "ct_description": "双侧腮腺及下颌下腺体积增大，部分见坏死；甲状腺密度普遍减低，见弥漫性类囊性密度影"
+  },
+  "颈部淋巴结": {
+    "pet_status": "2",
+    "suv": "SUVmax: 3.0",
+    "ct_status": "1",
+    "ct_description": "左侧颈部（5区）多发小淋巴结"
+  },
+  "肺与胸膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "2",
+    "suv": "SUVmax: 4.2",
+    "ct_status": "1",
+    "ct_description": "双侧肺门及纵隔多区多发小-偏大淋巴结影"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腋窝与胸壁": {
+    "pet_status": "2",
+    "suv": "SUVmax: 4.2",
+    "ct_status": "1",
+    "ct_description": "右侧腋窝多发小-偏大淋巴结"
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "左侧乳腺术后缺如见植入物影，右侧乳腺见植入物走行痕迹"
+  },
+  "肝脏": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "肝内多发类圆形低密度影"
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "脾脏": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "体积增大，内见多发类圆形低密度影"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "左肾上极类圆形低密度影；双侧肾盂肾盏扩张及致密影，右肾盂输尿管扩张"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "腹膜后（T9-T12）数个小淋巴结；腹主动脉旁多发淋巴结；左侧肾周筋膜条带状软组织影"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "肠系膜上动脉周围多发小-偏大淋巴结影"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "SUVmax: 1.7",
+    "ct_status": "6",
+    "ct_description": "颈椎见局灶性溶骨性骨质破坏"
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "2",
+    "suv": "SUVmax: 2.5",
+    "ct_status": "7",
+    "ct_description": "右侧颈部术后面板多发金属夹片及索条影；左侧上臂皮下静脉置管影"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "脑实质放射性分布不均；右额叶斑片状低密度影及结节；左侧颞叶囊变灶；双侧基底节区点状钙化；右侧枕骨内板局限性增厚；右颞部弧形突出"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "4",
+    "ct_description": "双侧上颌窦粘膜增厚"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "SUVmax: 4.33",
+    "ct_status": "4",
+    "ct_description": "鼻咽顶后壁轻度增生，邻近咽隐窝变窄；软腭肌束稍增厚"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "颈部淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肺与胸膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "3",
+    "ct_description": "左肺下叶点状致密影；右肺下叶后基底段条片影；双侧胸腔少许水样密度影"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 6.19",
+    "ct_status": "1",
+    "ct_description": "纵隔、气管旁、心膈角多发淋巴结"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔内多发淋巴结；冠状窦内可见少量积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "胆囊体积缩小，底部可见结节状突起"
+  },
+  "脾脏": {
+    "pet_status": "1",
+    "suv": "SUVmax: 5.28",
+    "ct_status": "2",
+    "ct_description": "脾脏体积增大，内可见多发等密度小结节"
+  },
+  "胰腺": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "胰腺形态、边缘密度异常"
+  },
+  "肾脏": {
+    "pet_status": "1",
+    "suv": "SUVmax: 4.24",
+    "ct_status": "7",
+    "ct_description": "双侧肾盂、肾盏及输尿管扩张积水；左侧肾盂内囊性密度影；左侧输尿管走行区结节状致密影"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "左侧肾上腺内侧缘类圆形小结节伴囊变；右侧肾上腺内侧缘囊性密度影"
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 6.19",
+    "ct_status": "1",
+    "ct_description": "肝门区、腹主动脉及下腔静脉周围多发淋巴结"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "1",
+    "suv": "SUVmax: 6.19",
+    "ct_status": "1",
+    "ct_description": "肠系膜根部多发淋巴结"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "左侧精索内动脉走行区可见结节状致密影"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "SUVmax: 6.19",
+    "ct_status": "1",
+    "ct_description": "髂血管旁、盆腔内及腹股沟区多发淋巴结"
+  },
+  "脊柱": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "皮下软组织多处条片影、结节状改变"
+  }
+}

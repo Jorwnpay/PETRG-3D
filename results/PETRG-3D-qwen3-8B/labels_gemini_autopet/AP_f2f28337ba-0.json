@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "脑实质内基底节区见小片状低密度影，脑沟、裂、池变宽"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "鼻咽顶后壁见一小结节影"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "甲状腺左叶内见一结节状低密度影"
+  },
+  "颈部淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肺与胸膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "3",
+    "ct_description": "双肺散在分布斑片及索条影，双侧胸膜增厚，左侧胸腔积液"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 10.1",
+    "ct_status": "2",
+    "ct_description": "纵隔多发条索影及多发结节影"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "1",
+    "suv": "SUVmax: 10.1",
+    "ct_status": "2",
+    "ct_description": "腋窝多发条索影及多发结节影"
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "胆囊颈部见软组织结节影"
+  },
+  "脾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "脾脏体积增大，实质内见数个低密度影"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "胰腺尾部见一点状致密影"
+  },
+  "肾脏": {
+    "pet_status": "4",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "左肾中部见类圆形低密度影"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 14.5",
+    "ct_status": "1",
+    "ct_description": "腹主动脉旁肿大淋巴结，脾门及胰腺后方多发小结节及钙化"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "3",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "SUVmax: 14.5",
+    "ct_status": "1",
+    "ct_description": "髂血管旁及腹股沟区多发肿大淋巴结"
+  },
+  "脊柱": {
+    "pet_status": "1",
+    "suv": "SUVmax: 20.6",
+    "ct_status": "6",
+    "ct_description": "腰椎部分椎体、骶骨、尾椎多发溶骨性骨质破坏灶"
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "1",
+    "suv": "SUVmax: 20.6",
+    "ct_status": "6",
+    "ct_description": "双侧髂骨、右侧耻骨多发溶骨性骨质破坏灶"
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "1",
+    "suv": "SUVmax: 7.1",
+    "ct_status": "2",
+    "ct_description": "双侧腹股沟区、腹直肌鞘内侧壁、右侧腹股沟内侧皮下多发结节状致密影"
+  }
+}

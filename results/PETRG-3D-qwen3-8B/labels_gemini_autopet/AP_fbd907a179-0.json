@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "1",
+    "suv": "SUVmax: 19.18",
+    "ct_status": "6",
+    "ct_description": "左侧下颌骨溶骨性骨质破坏，见碎屑状致密影，右侧下颌骨下缘可见囊性及气体密度影"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "1",
+    "suv": "SUVmax: 15.72",
+    "ct_status": "6",
+    "ct_description": "多组副鼻窦粘膜增厚，右侧上颌窦软组织影，左侧上颌骨骨质破坏"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "2",
+    "suv": "SUVmax: 5.03",
+    "ct_status": "2",
+    "ct_description": "鼻咽顶后壁腺体增生，双侧腭扁桃体、腭舌淋巴环多发结节及肿块"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "2",
+    "suv": "SUVmax: 3.14",
+    "ct_status": "2",
+    "ct_description": "双侧腮腺多发结节及肿块"
+  },
+  "颈部淋巴结": {
+    "pet_status": "2",
+    "suv": "SUVmax: 2.09",
+    "ct_status": "1",
+    "ct_description": "左侧颈部多个小淋巴结"
+  },
+  "肺与胸膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "左肺上叶实性小结节，双肺微结节，左肺下叶片状影"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 6.31",
+    "ct_status": "1",
+    "ct_description": "纵隔4R、5区多发小淋巴结"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "心包腔积液"
+  },
+  "腋窝与胸壁": {
+    "pet_status": "1",
+    "suv": "SUVmax: 6.31",
+    "ct_status": "1",
+    "ct_description": "右腋部多发小淋巴结"
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "脾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "脾脏增大，内见多发低密度灶"
+  },
+  "胰腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "2",
+    "ct_description": "胰头部小结节影"
+  },
+  "肾脏": {
+    "pet_status": "1",
+    "suv": "SUVmax: 17.04",
+    "ct_status": "2",
+    "ct_description": "左侧肾盂输尿管扩张，输尿管管腔内不规则软组织密度影，管壁增厚"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "左侧肾上腺肿大，见条带状影"
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "5",
+    "ct_description": "左侧睾丸切除术后，术区散在钙化影"
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "脊柱": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "部分肌群缺如，皮下脂肪间隙模糊，乳头上方皮下脂肪密度影"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "脑、颅骨与脑膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "脑皮层放射性减低及低密度影，颅骨多发异常高密度影及放射性浓聚"
+  },
+  "眼眶、鼻腔与副鼻窦": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "双侧筛窦、上颌窦、副鼻窦多发异常高密度影及放射性浓聚"
+  },
+  "咽部间隙、扁桃体与喉": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "双侧扁桃体、右侧咽旁间隙等放射性浓聚及异常高密度影"
+  },
+  "甲状腺与主要唾液腺（腮腺、下颌下腺）": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "右侧腮腺内放射性摄取增高"
+  },
+  "颈部淋巴结": {
+    "pet_status": "1",
+    "suv": "SUVmax: 18.7",
+    "ct_status": "1",
+    "ct_description": "双侧颈部、颈动脉鞘周围多发小淋巴结影，放射性摄取增高"
+  },
+  "肺与胸膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "双肺多部位及胸膜下放射性摄取增高"
+  },
+  "纵隔与肺门（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 18.7",
+    "ct_status": "1",
+    "ct_description": "纵隔内多发小淋巴结影，放射性摄取增高"
+  },
+  "心脏与心包": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腋窝与胸壁": {
+    "pet_status": "1",
+    "suv": "SUVmax: 18.7",
+    "ct_status": "1",
+    "ct_description": "腋窝、胸壁多发小淋巴结及放射性摄取增高"
+  },
+  "乳腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "肝脏": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "肝门处放射性摄取增高"
+  },
+  "胆囊与胆道": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "脾脏": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胰腺": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "胰头周围放射性摄取增高"
+  },
+  "肾脏": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "双侧肾周筋膜放射性摄取增高"
+  },
+  "肾上腺": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "胃肠道（食管、胃、肠）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "腹膜后间隙（含淋巴结）": {
+    "pet_status": "1",
+    "suv": "SUVmax: 18.7",
+    "ct_status": "1",
+    "ct_description": "腹膜后多发小淋巴结影，腹主动脉旁、肠系膜根部放射性摄取增高"
+  },
+  "腹膜、肠系膜与网膜": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "7",
+    "ct_description": "肠系膜根部、肠系膜上动脉旁放射性摄取增高"
+  },
+  "盆腔脏器（膀胱、子宫/附件 或 前列腺/精囊腺）": {
+    "pet_status": "5",
+    "suv": "",
+    "ct_status": "8",
+    "ct_description": ""
+  },
+  "盆腔与腹股沟淋巴结": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "1",
+    "ct_description": "左侧髂血管旁、左侧腹股沟多发放射性摄取增高影"
+  },
+  "脊柱": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "脊柱多发点状、斑片状、结节状异常高密度影及放射性浓聚"
+  },
+  "骨盆与四肢骨": {
+    "pet_status": "1",
+    "suv": "",
+    "ct_status": "6",
+    "ct_description": "锁骨、肩胛骨、肋骨、髂骨、股骨及下肢骨多发异常高密度影及放射性浓聚"
+  },
+  "肌肉与皮下组织": {
+    "pet_status": "1",
+    "suv": "SUVmax: 18.7",
+    "ct_status": "7",
+    "ct_description": "多处肌肉及皮下间隙放射性摄取增高，见类圆形脂肪密度影"
+  }
+}
