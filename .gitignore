@@ -1,0 +1,51 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# ---- Environments ----
+.env
+.venv/
+venv/
+env/
+
+# ---- Editors / OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ---- Training artifacts ----
+outputs/*
+!outputs/.gitkeep
+wandb/
+runs/
+*.log
+
+# ---- Model weights / large intermediates ----
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+# Keep the small example CSVs under results/ but ignore new generation dumps.
+results/**/json_pred/
+results/**/json_pred_autopet/
+results/**/labels_llm/
+results/**/labels_llm_autopet/
+
+# ---- MONAI / data caches ----
+monai_cache*/
+triton_cache*/
+*.nii
+*.nii.gz
+
+# ---- Local metric caches ----
+evaluation/local_metrics/**/__pycache__/
