@@ -196,11 +196,13 @@ PETRG-3D is built on top of several excellent open-source projects:
 ## 8. Citation
 
 ```bibtex
-@article{jiao2025vision,
-  title={Vision-Language Models for Automated 3D PET/CT Report Generation},
-  author={Jiao, Wenpei and Shang, Kun and Li, Hui and Yan, Ke and Zhang, Jiajin and Yang, Guangjie and Guo, Lijuan and Wan, Yan and Yang, Xing and Jin, Dakai and others},
-  journal={arXiv preprint arXiv:2511.20145},
-  year={2025}
+@InProceedings{Jiao_2026_CVPR,
+    author    = {Jiao, Wenpei and Yan, Ke and Zhang, Jiajin and Jin, Dakai and Xie, Zhaoheng},
+    title     = {Vision-Language Models for Automated 3D PET/CT Report Generation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings},
+    month     = {June},
+    year      = {2026},
+    pages     = {5295-5304}
 }
 ```
 
